@@ -1,2 +1,2 @@
 # Plasmopara-viticola
-Incubation method of prognosis
+Incubation method of prognosis.
